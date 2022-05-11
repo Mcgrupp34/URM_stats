@@ -3,7 +3,7 @@ library(sp)
 library(rgeos)
 library(aspace)
 
-urm = read.csv("/Users/Zack/Desktop/Pratt/Classes/AdvVis/Final_proj_data/Oregon/URM_for_R.csv")
+urm = read.csv("FILE_PATH")
 
 
 par(mfrow=c(1,2))
